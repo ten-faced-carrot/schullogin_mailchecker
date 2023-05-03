@@ -1,0 +1,4 @@
+*.ui
+venv
+__pycache__
+strontium.yaml
